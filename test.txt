@@ -1,0 +1,1 @@
+This is a test file, newly added over command lines in Git Bash
